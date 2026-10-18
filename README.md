@@ -44,6 +44,5 @@ Collaborating on open-source genomics tools (nf-core, variant interpretation, ca
 
 ### Contact
 
-<!-- Check this address: "email.com" is probably meant to be "gmail.com" -->
-- Email: kashyapshilpi08@email.com
-- LinkedIn: <!-- add your LinkedIn URL here -->
+- Email: [kashyapshilpi08@gmail.com](mailto:kashyapshilpi08@gmail.com)
+- LinkedIn: [linkedin.com/in/shilpi-kumari-5b5a52184](https://www.linkedin.com/in/shilpi-kumari-5b5a52184)
