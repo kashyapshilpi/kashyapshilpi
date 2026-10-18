@@ -1,42 +1,49 @@
-## Hi, I'm Shilpi Kumari 
+# Shilpi Kumari
 
-Bioinformatics Analyst with a strong focus on **cancer genomics and immunotherapy**.  
-Experience in **whole exome sequencing (WES)** analysis, **neoantigen prediction**, and **epigenetic data analysis**.
+**Senior Bioinformatician · Clinical NGS & Cancer Genomics**
 
----
-
-###  Research Interests
-- Cancer Immunotherapy & Neoantigen Discovery  
-- Whole Exome Sequencing (Germline & Somatic)  
-- Tumor Mutation Burden (TMB/TML)  
-- DNA Methylation & Epigenetic Age Prediction  
+I build and validate NGS analysis pipelines for clinical genomics, covering whole-exome germline and somatic variant calling, CNV and mitochondrial analysis, RNA fusion detection, and variant interpretation and reporting. My earlier work focused on cancer immunogenomics, especially neoantigen prediction and HLA typing.
 
 ---
 
-###  Technical Expertise
-- **NGS Analysis:** WES (Germline & Somatic), Variant Annotation  
-- **Variant Calling:** GATK, Mutect2  
-- **Neoantigen Prediction:** pVACseq, NeoPredPipe, neoepiscope  
-- **HLA Typing:** OptiType, HLA-HD  
-- **Workflow & Reproducibility:** Nextflow, Docker  
-- **Programming:** Python, Bash, R (basic)
+### What I work on
 
----
+- **Germline WES**: variant calling, ACMG-based classification, inheritance-mode filtering, carrier screening (solo / couple / trio)
+- **Somatic & precision oncology**: tumor-only calling (Mutect2), TMB and MSI scoring, therapy / pharmacogenomics / clinical-trial actionability
+- **RNA fusions**: Arriba + STAR-Fusion consensus calling and annotation
+- **Immunogenomics**: neoantigen prediction (pVACseq, NeoPredPipe, neoepiscope), HLA typing (OptiType, HLA-HD)
+- **Epigenomics**: bisulfite-seq DNA methylation (Bismark, methylKit)
 
-###  Research Experience
-- Dissertation research at **CSIR–IHBT** focused on **DNA methylation analysis**
-- Currently working on **benchmarking neoantigen prediction pipelines**
-- Automating NGS workflows using **Nextflow and Docker**
+### Toolbox
 
----
+| Area | Tools |
+|---|---|
+| Languages | Python, Bash, R |
+| Alignment & calling | BWA, GATK, Mutect2, Bismark, HISAT2 |
+| Annotation & knowledge bases | ANNOVAR, OncoKB, CIViC, CGI, PharmGKB / CPIC, OMIM |
+| Workflows & infrastructure | Nextflow, Docker, AWS |
 
-###  Current Goals
-- Develop reproducible cancer genomics pipelines  
-- Apply computational methods to immunotherapy research  
-- Prepare for **PhD training in cancer bioinformatics**
+### Repositories
 
----
+| Repo | What it is |
+|---|---|
+| [DNA-methylation-analysis](https://github.com/kashyapshilpi/DNA-methylation-analysis) | Bisulfite-seq workflow: Trimmomatic → Bismark → methylKit differential methylation (MSc project) |
+| [RNA-Seq-DEGs-analysis](https://github.com/kashyapshilpi/RNA-Seq-DEGs-analysis) | RNA-seq differential expression: HISAT2 → HTSeq → DESeq2 / edgeR (MSc project) |
 
-###  Contact
-- Email: kashyapshilpi08@email.com  
-- Location: Hyderabad, India
+### Background
+
+- **Senior Bioinformatician**, Kanopy Diagnostics (Jul 2026 – present, remote)
+- **Senior Bioinformatics Analyst & Research Specialist**, Bioserve – a REPROCELL company (2024 – 2026)
+- **Junior Bioinformatics Analyst**, Sandor Speciality Diagnostics (2023 – 2024), CAP/NABL-accredited clinical variant interpretation
+- **MSc Bioinformatics**, Chandigarh University (2023); dissertation on DNA methylation at CSIR–IHBT
+- **BSc (Hons) Bioinformatics**, Panjab University (2020)
+
+### Open to
+
+Collaborating on open-source genomics tools (nf-core, variant interpretation, cancer genomics) and PhD opportunities in cancer bioinformatics and tumor immunogenomics.
+
+### Contact
+
+<!-- Check this address: "email.com" is probably meant to be "gmail.com" -->
+- Email: kashyapshilpi08@email.com
+- LinkedIn: <!-- add your LinkedIn URL here -->
